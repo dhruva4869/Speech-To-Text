@@ -36,7 +36,6 @@ Shape transformation → n_rnn_layers of BiGRUs → MLP → Text output
 - **Mel-spectrogram preprocessing** with frequency and time masking for data augmentation
 - **Custom text preprocessing** with character-level tokenization
 - **Comprehensive evaluation metrics** including Word Error Rate (WER) and Character Error Rate (CER)
-- **GPU acceleration** support for faster training and inference
 - **Model checkpointing** for saving and loading trained models
 
 ## 📋 Requirements
